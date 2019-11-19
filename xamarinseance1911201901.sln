@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinseance1911201901.Android", "xamarinseance1911201901\xamarinseance1911201901.Android\xamarinseance1911201901.Android.csproj", "{C631733E-D243-4D3F-A5EC-6065B06673F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinseance1911201901", "xamarinseance1911201901\xamarinseance1911201901\xamarinseance1911201901.csproj", "{ADB535CD-94BA-472F-B017-4EA5CB51C794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C631733E-D243-4D3F-A5EC-6065B06673F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB535CD-94BA-472F-B017-4EA5CB51C794}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F6248D-3E72-4CCE-90AF-E3302EB89449}
+	EndGlobalSection
+EndGlobal
